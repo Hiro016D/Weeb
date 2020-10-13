@@ -1,0 +1,13 @@
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.exe
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.deps.json
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.runtimeconfig.json
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.runtimeconfig.dev.json
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.dll
+C:\Users\zayed\Desktop\Weeb\bin\Debug\netcoreapp3.1\Weeb.pdb
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.csprojAssemblyReference.cache
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.AssemblyInfoInputs.cache
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.AssemblyInfo.cs
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.csproj.CoreCompileInputs.cache
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.dll
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.pdb
+C:\Users\zayed\Desktop\Weeb\obj\Debug\netcoreapp3.1\Weeb.genruntimeconfig.cache
