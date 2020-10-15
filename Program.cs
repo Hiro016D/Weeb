@@ -6,21 +6,19 @@ namespace Weeb
     {
         static void Main(string[] args)
         {
-            Console.Title = "Cockeru bro...";
-            Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
-            Console.WindowHeight = 40;
-            Console.WriteLine("I love Cockeru!");
+            int num01;
+            int num02;
 
-            Console.ReadLine();
+            Console.Write("Input a number: ");
+            num01 = Convert.ToInt32( Console.ReadLine() );
+
+            Console.Write("Input a second number");
+            num02 = Convert.ToInt32( Console.ReadLine() );
             
-            Console.WriteLine("My name is Hiro. I love myself some delicious cockeru.");
-            Console.WriteLine("What is your favorite Color");
+            int result = num01 * num02;
+            Console.Write("The result is " + result);
 
-            Console.ReadLine();
-
-            Console.WriteLine("Cool. Mine is Light Blue!");
-
+            //wait's before closing terminal
             Console.ReadKey();
         }
     }
